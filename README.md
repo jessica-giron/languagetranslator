@@ -1,4 +1,4 @@
-# languagetranslator
+# Language Translator
 
 a language translator that converts anything you type in your first chosen language to your second langauge at the click of a button. 
 
